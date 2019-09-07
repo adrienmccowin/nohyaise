@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://noowuabaim.bradenandruth.com/sitemap.xml
